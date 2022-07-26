@@ -104,4 +104,11 @@ section.freelancer h1{
 section.freelancer h2{
     margin-top: 2rem;
 }
+.profile:hover{
+    transform: scale(1.2,1.2);
+    transition: transform 2s;
+}
+.btn1{
+    margin: 20%;
+}
 
